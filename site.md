@@ -2,11 +2,11 @@ We rented the server of WordPress itself for the site, if someone who already kn
 
 our project contains only few pages to introduce and as a home page. Our content mostly focuses on posts.
 
-We have mainly three categories: cake, bread and dessert. Adding each post should be categorized into on of these three categories.
+We have mainly four categories: Home, About, Service and contact . Adding each post should be categorized into one of these four categories.
 
-However, if in the future, the store is going to launch a new product or a new type of food that is not listed in these three categories; you may add a new father type category.
+However, if in the future, the store is going to launch a new product or a new type of information that is not listed in these four categories; you may add a new father type category.
 
-If the store wants to separate those products in more detail. You can add child category under the father category such as French bread underneath Bread, etc.
+If the store wants to separate those products in more detail. You can add child category under the father category such as rent car underneath service, etc.
 
 Adding a new post needs at least one picture and information about the new product. You should host your picture online in order to reduce the loading time of the web page.
 
